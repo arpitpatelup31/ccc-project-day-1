@@ -1,0 +1,6 @@
+my-bookstore/
+├── public/
+│   └── books.json
+├── index.html
+├── styles.css
+
